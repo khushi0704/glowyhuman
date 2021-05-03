@@ -112,13 +112,24 @@ font-weight: 300;
   .topnav.responsive a.icon {
     position: absolute;
     right: 0;
+    font-size: 2px;
     top: 0;
   }
+  .topnav .icon {
+    padding: 1px;
+  }
+  .topnav a {
+ 
+    font-size: 14px;
+  }
+.social-media h1{
+  font-size: 10px;
+}
   .card {
     /* Add shadows to create the "card" effect */
-   
     width: auto;
-    height: auto;}
+    height: auto;
+  }
   .topnav.responsive a {
     float: none;
     display: block;
